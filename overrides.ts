@@ -55,6 +55,7 @@ export const overrides: Record<string, Override> = {
   gtfs: { mediaType: 'text/n3' },
   http: { mediaType: 'application/rdf+xml' },
   ical: { file: 'http://www.w3.org/2002/12/cal/icaltzd.rdf', mediaType: 'application/rdf+xml' },
+  koad: { file: 'https://raw.githubusercontent.com/givemetarte/temp-vocab/main/koad.rdf', mediaType: 'application/rdf+xml'},
   lvont: { mediaType: 'application/rdf+xml' },
   prefix: { file: 'http://qudt.org/2.1/vocab/prefix' },
   qb: { mediaType: 'text/turtle' },
