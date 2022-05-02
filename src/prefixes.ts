@@ -37,7 +37,7 @@ const prefixes = {
   http: 'http://www.w3.org/2011/http#',
   hydra: 'http://www.w3.org/ns/hydra/core#',
   ical: 'http://www.w3.org/2002/12/cal/icaltzd#',
-  koad: 'http://data.datahub.kr/administration/administrative-division/def/',
+  koad: 'http://data.kisti.re.kr/administration/administrative-division/def/',
   ldp: 'http://www.w3.org/ns/ldp#',
   locn: 'http://www.w3.org/ns/locn#',
   lvont: 'http://lexvo.org/ontology#',

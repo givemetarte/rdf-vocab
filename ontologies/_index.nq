@@ -228,10 +228,11 @@
 <https://prefix.zazuko.com/ical:> <http://www.w3.org/ns/rdfa#prefix> "ical" .
 <https://prefix.zazuko.com/ical:> <http://www.w3.org/ns/rdfa#uri> <http://www.w3.org/2002/12/cal/icaltzd#> .
 <https://prefix.zazuko.com/koad:> <http://dbpedia.org/ontology/filename> "ontologies/koad.nq" .
+<https://prefix.zazuko.com/koad:> <http://purl.org/dc/terms/description> "본 명세서는 대한민국의 행정구역을 의미적으로 표현하기 위한 어휘를 정의한다. 본 명세서에서 정의한 어휘는 대한민국에서 행정구역을 구분하기 위한 기준과 관계를 포함한다. <p/>\n     행정구역은 정치적으로 하나의 단위를 이루는 국가에서 행정상의 목적에 따라 일정한 범위로 구분한 행정단위이다. 행정구역은 국가별로 다르다. 대한민국의 행정구역은 특별시, 광역시, 도, 시, 군, 구, 읍, 면, 동, 리로 구분하며, 현재  1개의 특별시, 6개의 광역시, 8개의 도, 1개의 특별자치시, 1개의 특별자치도로 구성된다. <p/>\n     특별시는 자치구로, 광역시는 자치구와 군으로, 도는 자치시와 군으로 하위 행정구역을 둔다. 이상의 행정구역은 기초자치단체로 분류된다. 특별자치시는 그 자체로 하나의 기초자치단체를 구성한다. 특별자치도는 자치시가 아닌 행정시를 둘 수 있으며, 행정시는 특별자치도지사 직속으로 그 역할을 하며 기초지방자치단체로서의 권한이 없다. \n     일반구는 특별시, 광역시를 제외한 인구 50만명 이상의 시에 둔다. 일반구는 기초지방자치단체로서의 권한이 없다는 측면에서 특별시, 광역시에 설치된 자치구와 구별된다. 시(자치시, 행정시)와 구(자치구, 일반구)는 읍·면·동, 군은 읍, 면의 하위 행정구역을 갖고 있으며, 읍·면은 행정리로, 동은 통으로 나뉜다. 통 및 행정리는 말단 행정 구역인 반으로 나뉜다." .
 <https://prefix.zazuko.com/koad:> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/rdfa#PrefixMapping> .
 <https://prefix.zazuko.com/koad:> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://raw.githubusercontent.com/givemetarte/temp-vocab/main/koad.rdf> .
 <https://prefix.zazuko.com/koad:> <http://www.w3.org/ns/rdfa#prefix> "koad" .
-<https://prefix.zazuko.com/koad:> <http://www.w3.org/ns/rdfa#uri> <http://data.datahub.kr/administration/administrative-division/def/> .
+<https://prefix.zazuko.com/koad:> <http://www.w3.org/ns/rdfa#uri> <http://data.kisti.re.kr/administration/administrative-division/def/> .
 <https://prefix.zazuko.com/ldp:> <http://dbpedia.org/ontology/filename> "ontologies/ldp.nq" .
 <https://prefix.zazuko.com/ldp:> <http://purl.org/dc/terms/description> "Vocabulary URIs defined in the Linked Data Platform (LDP) namespace." .
 <https://prefix.zazuko.com/ldp:> <http://purl.org/dc/terms/title> "The W3C Linked Data Platform (LDP) Vocabulary" .
